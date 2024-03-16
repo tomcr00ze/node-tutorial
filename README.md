@@ -3,3 +3,4 @@
 - Node Js
 - Express Js
 - PostgreSQL
+- Postman (testing)
